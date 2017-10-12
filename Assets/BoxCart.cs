@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BoxCar : MonoBehaviour {
+public class BoxCart : MonoBehaviour {
 	public Camera camera;
 	private bool driving;
 	private Camera previousCamera;
